@@ -1,0 +1,14 @@
+{
+    "education":[
+        {
+            "title": " 2020- 2022",
+            "cardTitle": "Técnico Universitario en Informática",
+            "cardSubtitle":"Universidad Técnica Federico Santa María, Sede Viña del Mar",
+            "cardDetailedText": "",
+            "icon" : {
+                "src": "images/education/usm.png"
+            }
+        }
+        
+    ]
+}

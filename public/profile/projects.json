@@ -1,0 +1,62 @@
+{
+    "projects" : [
+        
+        {
+            "image" : "images/projects/niFi-logo-horizontal.png",
+            "title": "Creación de flujos",
+            "bodyText": "Utilizando React y las colecciones MongoDB junto con Apache NiFi se creó un flujo de información en el que los datos de formularios viajaban por los puertos hasta llegar a sus respectibas colecciones en MongoDB",
+    
+            "tags" : [
+                "React",
+                "Apache NiFi",
+                "Mongo DB"
+            ]
+        },
+        {
+            "image" : "images/projects/bminas.png",
+            "title": "Proyecto personal",
+            "bodyText": "Con las herramientas JS, HTML y CSS se construyó el mini juego 'buscaminas' con el objetivo de aprender sobre los distintos usos de estos lenguajes",
+    
+            "tags" : [
+                "JS",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "image" : "images/projects/MERN.png",
+            "title": "Proyecto personal",
+            "bodyText": "Utilizando el stack MERN se diseñó y construlló una página web con la finalidad de ser un administrador de tareas con cuentas de usuarios",
+    
+            "tags" : [
+                "Mongo DB",
+                "Express",
+                "React",
+                "Node JS"
+            ]
+        },
+        {
+            "image" : "images/projects/MERN.png",
+            "title": "Proyecto Grupal",
+            "bodyText": "Con el stack MERN se desarrolló una página web dedicada a almacenar y subir enlaces con el objetivo de compartir variadas fuentes de apredizaje entre los distintos usuarios ",
+    
+            "tags" : [
+                "Mongo DB",
+                "Express",
+                "React",
+                "Node JS"
+            ]
+        },
+        {
+            "image" : "images/projects/java-logo.png",
+            "title": "Proyecto Grupal",
+            "bodyText": "Usando Java y C# como lenguaje se creó un proyecto que reunía 5 minijuegos desarrollados por cada uno de los integrantes",
+    
+            "tags" : [
+                "C#",
+                "Java"
+            ]
+        }
+        
+    ]
+}
