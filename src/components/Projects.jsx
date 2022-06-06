@@ -54,7 +54,7 @@ const Projects = (props) => {
                   variant={theme.bsSecondaryVariant}
                   onClick={() => setShowMore(true)}
                 >
-                  show more
+                  .
                 </Button>
                 )}
             </Container>
