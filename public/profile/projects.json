@@ -1,5 +1,16 @@
 {
     "projects" : [
+        {
+            "image" : "images/projects/java.png",
+            "title": "Proyecto Grupal",
+            "bodyText": "Usando Java, NetBeans y mySQL se desarrolló un proyecto que buscaba solventar las necesidades de una empresa de repisas a pedido y funcionar como un sistema de gestión de pedidos",
+    
+            "tags" : [
+                "C#",
+                "Java",
+                "NetBeans"
+            ]
+        },
         
         {
             "image" : "images/projects/niFi-logo-horizontal.png",
