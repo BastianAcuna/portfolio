@@ -14,8 +14,8 @@
         
         {
             "image" : "images/projects/niFi-logo-horizontal.png",
-            "title": "Creación de flujos",
-            "bodyText": "Utilizando React y las colecciones MongoDB junto con Apache NiFi se creó un flujo de información en el que los datos de formularios viajaban por los puertos hasta llegar a sus respectibas colecciones en MongoDB",
+            "title": "Creación de Flujos",
+            "bodyText": "Utilizando React y las colecciones MongoDB junto con Apache NiFi se creó un flujo de información en el que los datos de formularios viajaban por los puertos hasta llegar a sus respectivas colecciones en MongoDB",
     
             "tags" : [
                 "React",
@@ -25,7 +25,7 @@
         },
         {
             "image" : "images/projects/bminas.png",
-            "title": "Proyecto personal",
+            "title": "Proyecto Personal",
             "bodyText": "Con las herramientas JS, HTML y CSS se construyó el mini juego 'buscaminas' con el objetivo de aprender sobre los distintos usos de estos lenguajes",
     
             "tags" : [
@@ -36,8 +36,8 @@
         },
         {
             "image" : "images/projects/MERN.png",
-            "title": "Proyecto personal",
-            "bodyText": "Utilizando el stack MERN se diseñó y construlló una página web con la finalidad de ser un administrador de tareas con cuentas de usuarios",
+            "title": "Proyecto Personal",
+            "bodyText": "Utilizando el stack MERN se diseñó y construyó una página web con la finalidad de ser un administrador de tareas con cuentas de usuarios",
     
             "tags" : [
                 "Mongo DB",
@@ -49,20 +49,20 @@
         {
             "image" : "images/projects/MERN.png",
             "title": "Proyecto Grupal",
-            "bodyText": "Con el stack MERN se desarrolló una página web dedicada a almacenar y subir enlaces con el objetivo de compartir variadas fuentes de apredizaje entre los distintos usuarios ",
+            "bodyText": "Con el stack MERN se desarrolló una página web dedicada a almacenar y subir enlaces con el objetivo de compartir variadas fuentes de aprendizaje entre los distintos usuarios ",
     
             "tags" : [
-                "Mongo DB",
+                "MongoDB",
                 "Express",
                 "React",
                 "Node JS",
-                "postman"
+                "Postman"
             ]
         },
         {
             "image" : "images/projects/java.png",
             "title": "Proyecto Grupal",
-            "bodyText": "Usando Java y C# como lenguaje se creó un proyecto que reunía 5 minijuegos desarrollados por cada uno de los integrantes",
+            "bodyText": "Usando Java y C# como lenguaje se creó un proyecto que reunía 5 mini juegos desarrollados por cada uno de los integrantes",
     
             "tags" : [
                 "C#",
